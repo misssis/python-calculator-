@@ -1,4 +1,4 @@
-# python-calculator-
+# python pasword maker -
 this is a calculator this code was made by a beginner , so please bear this in mind   
 import tkinter as tk  
 import sys 
